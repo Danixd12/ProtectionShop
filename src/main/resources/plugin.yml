@@ -1,0 +1,8 @@
+name: ProtectionShop
+version: '${project.version}'
+main: d.studio.protectionshop.ProtectionShop
+api-version: 1.17
+authors: [ DaniCraftingYT ]
+commands:
+  pshop:
+    description: "Tienda de protecciones"
