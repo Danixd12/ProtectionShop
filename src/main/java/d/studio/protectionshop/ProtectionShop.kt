@@ -16,6 +16,8 @@ class ProtectionShop : JavaPlugin() {
         logger.info("- Author: DaniCraftingYT")
         logger.info("- Depends: VaultAPI")
 
+
+
         Bukkit.getPluginCommand("pshop")?.setExecutor(openshop)
     }
 
